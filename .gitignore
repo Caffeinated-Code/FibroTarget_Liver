@@ -7,6 +7,7 @@ PROJECT_HANDOFF.md
 docs/biology_primer_liver_fibrosis.docx
 docs/assets/primer/
 scripts/build_biology_primer.py
+interview_prep/
 
 # Raw and external data
 data/raw/
