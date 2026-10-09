@@ -565,8 +565,8 @@ The repo includes local and cloud-facing execution paths. The local repo is desi
 One-step local review run:
 
 ```bash
-git clone https://github.com/Caffeinated-Code/FibroTarget-Liver.git
-cd FibroTarget-Liver
+git clone https://github.com/Caffeinated-Code/FibroTarget_Liver.git
+cd FibroTarget_Liver
 make all
 ```
 
